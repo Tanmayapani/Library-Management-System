@@ -53,5 +53,5 @@ A simple and interactive Java-based Library Management System designed to manage
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Library-Management-System.git
+   git clone https://github.com/Tanmayapani/Library-Management-System.git
    cd Library-Management-System
