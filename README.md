@@ -1,6 +1,6 @@
 # **Library Management System**
 
-A simple and interactive Java-based Library Management System designed to manage books, users (admins and students), and borrowing and returning operations. This system utilizes object-oriented principles to handle core functionalities efficiently.
+A simple and interactive Java-based Library Management System designed to manage books, users (admins & students), and borrowing and returning operations. This system utilizes object-oriented principles to handle core functionalities efficiently.
 
 ---
 
